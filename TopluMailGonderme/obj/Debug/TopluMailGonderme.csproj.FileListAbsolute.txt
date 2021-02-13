@@ -1,0 +1,7 @@
+C:\Users\kakti\source\repos\TopluMailGonderme\TopluMailGonderme\bin\Debug\TopluMailGonderme.exe.config
+C:\Users\kakti\source\repos\TopluMailGonderme\TopluMailGonderme\bin\Debug\TopluMailGonderme.exe
+C:\Users\kakti\source\repos\TopluMailGonderme\TopluMailGonderme\bin\Debug\TopluMailGonderme.pdb
+C:\Users\kakti\source\repos\TopluMailGonderme\TopluMailGonderme\obj\Debug\TopluMailGonderme.csproj.CoreCompileInputs.cache
+C:\Users\kakti\source\repos\TopluMailGonderme\TopluMailGonderme\obj\Debug\TopluMailGonderme.exe
+C:\Users\kakti\source\repos\TopluMailGonderme\TopluMailGonderme\obj\Debug\TopluMailGonderme.pdb
+C:\Users\kakti\source\repos\TopluMailGonderme\TopluMailGonderme\obj\Debug\TopluMailGonderme.csprojAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿
+            string[] mailAdresleri = new string[]// kişilerin mail adresleri
+                  {
+             "feritcan04@gmail.com",
+             "yusufyldrm1625@gmail.com",
+             "aydakrtl@outlook.com",
+             "ademkesim34@gmail.com",
+             "fatih.erguder@gmail.com",
+             "onurcem.erdogan@outlook.com",
+             "retatu@outlook.com",
+             "hhsonmez68@gmail.com",
+             "muhammet.akgz@gmail.com"
+
+            };
+
+             string[] isimler = new string[]// kişilerin isimlerİ,
+            {
+             "Ferit kaktimur",
+             "Muhammet Yusuf Yıldırım",
+             "Ayda Kartal",
+             "Adem Veli Kesim",
+             "Fatih Ergüder",
+             "Onur Cem Erdoğan",
+             "Recep Tarık Turan",
+             "Hasan Hüseyin Sönmez",
+             "Muhammet Akgöz"
+
+            };
