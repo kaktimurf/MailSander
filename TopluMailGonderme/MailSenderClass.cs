@@ -13,15 +13,15 @@ namespace TopluMailGonderme
     {
         public  static bool MailSendMethod(string alıcıEposta, string mesaJ,string mesajYollananKisi)
         {
-            string subject = "Selçuk Üniversitesi Bilişim Teknolojileri Zirvesi 2021";
+            string subject = "Konu Başlığı";
             string content = mesaJ;
            
             bool control;
 
 
             var mailAlan = alıcıEposta; //alıcı 
-            var mailYollayan = "selcukbtt@gmail.com";// gönderici //eğer selcukbtt ile bir sıkıntı olursa selcukbilisimteknolojileri@gmail.com hesbını yaz
-            var mailYollayanPass = "selcukbtt2020"; //gönderici password // şifre==>>selcukbilisimteknolojileri@gmail.com==========>selcukbtt2020
+            var mailYollayan = ".......@gmail.com";// gönderici Mail adresi
+            var mailYollayanPass = "*********"; //gönderici password 
 
 
             var _defaultCredentials = false;
